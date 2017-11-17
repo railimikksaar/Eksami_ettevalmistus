@@ -9,8 +9,8 @@
    <title>OSIRIS-REx</title>
 </head>
 <body>
-<h1>See on alustus</h1>
-<p>See on esialgne tekst.</p>
+<h1>Siia tuleb lehekülje pealkiri</h1>
+<p>See on esilehekülje esialgne tekst.</p>
 
 </body>
 </html>
